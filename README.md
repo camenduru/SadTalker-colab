@@ -19,3 +19,4 @@ https://sadtalker.github.io/
 
 ## Output
 
+https://github.com/camenduru/SadTalker-colab/assets/54370274/e49fdb29-9faf-45aa-8135-9d9ba7d63ca0
