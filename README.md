@@ -6,6 +6,7 @@
 
 | Colab | Info
 | --- | --- |
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SadTalker-colab/blob/main/SadTalker_v0.2_colab.ipynb) | SadTalker_v0.2_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/SadTalker-colab/blob/main/SadTalker_colab.ipynb) | SadTalker_colab
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Winfredy/SadTalker/blob/main/quick_demo.ipynb) | SadTalker_colab (Without Gradio) (Author Colab)
 
